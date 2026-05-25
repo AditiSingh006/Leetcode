@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/AditiSingh006/Leetcode/tree/master/0682-baseball-game) |
 ## Stack
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AditiSingh006/Leetcode/tree/master/0682-baseball-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
