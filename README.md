@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AditiSingh006/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
