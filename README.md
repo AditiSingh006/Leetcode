@@ -36,6 +36,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AditiSingh006/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AditiSingh006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AditiSingh006/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AditiSingh006/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
