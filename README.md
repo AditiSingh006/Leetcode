@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/AditiSingh006/Leetcode/tree/master/0682-baseball-game) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 ## String
 |  |
