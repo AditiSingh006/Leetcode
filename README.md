@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2126-destroying-asteroids](https://github.com/AditiSingh006/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AditiSingh006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AditiSingh006/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AditiSingh006/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Stack
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/AditiSingh006/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AditiSingh006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AditiSingh006/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## Two Pointers
