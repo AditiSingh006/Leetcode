@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/AditiSingh006/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0485-max-consecutive-ones](https://github.com/AditiSingh006/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/AditiSingh006/Leetcode/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/AditiSingh006/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
