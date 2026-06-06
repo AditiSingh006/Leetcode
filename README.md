@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/AditiSingh006/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/AditiSingh006/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/AditiSingh006/Leetcode/tree/master/0682-baseball-game) |
 | [1470-shuffle-the-array](https://github.com/AditiSingh006/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AditiSingh006/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AditiSingh006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2126-destroying-asteroids](https://github.com/AditiSingh006/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AditiSingh006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
+| [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 ## Database
 |  |
 | ------- |
