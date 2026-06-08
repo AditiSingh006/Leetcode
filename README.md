@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AditiSingh006/Leetcode/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AditiSingh006/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
 ## Bit Manipulation
 |  |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AditiSingh006/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
