@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AditiSingh006/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AditiSingh006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/AditiSingh006/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AditiSingh006/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AditiSingh006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 | [1189-maximum-number-of-balloons](https://github.com/AditiSingh006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AditiSingh006/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AditiSingh006/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/AditiSingh006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AditiSingh006/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/AditiSingh006/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
