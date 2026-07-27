@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/AditiSingh006/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0197-rising-temperature](https://github.com/AditiSingh006/Leetcode/tree/master/0197-rising-temperature) |
+| [0262-trips-and-users](https://github.com/AditiSingh006/Leetcode/tree/master/0262-trips-and-users) |
 | [0577-employee-bonus](https://github.com/AditiSingh006/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/AditiSingh006/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/AditiSingh006/Leetcode/tree/master/0595-big-countries) |
