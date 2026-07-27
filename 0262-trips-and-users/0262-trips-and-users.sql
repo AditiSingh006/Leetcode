@@ -1,4 +1,5 @@
 # Write your MySQL query statement below
+# Write your MySQL query statement below
 SELECT
     T.request_at AS 'Day',
     ROUND(
