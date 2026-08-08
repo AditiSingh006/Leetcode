@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AditiSingh006/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/AditiSingh006/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [2485-find-the-pivot-integer](https://github.com/AditiSingh006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AditiSingh006/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AditiSingh006/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [2485-find-the-pivot-integer](https://github.com/AditiSingh006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AditiSingh006/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AditiSingh006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AditiSingh006/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
