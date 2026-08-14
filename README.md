@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AditiSingh006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AditiSingh006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AditiSingh006/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AditiSingh006/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AditiSingh006/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/AditiSingh006/Leetcode/tree/master/0263-ugly-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AditiSingh006/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2485-find-the-pivot-integer](https://github.com/AditiSingh006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AditiSingh006/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AditiSingh006/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
