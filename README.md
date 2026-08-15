@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AditiSingh006/Leetcode/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/AditiSingh006/Leetcode/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/AditiSingh006/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AditiSingh006/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2485-find-the-pivot-integer](https://github.com/AditiSingh006/Leetcode/tree/master/2485-find-the-pivot-integer) |
