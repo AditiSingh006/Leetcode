@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/AditiSingh006/Leetcode/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/AditiSingh006/Leetcode/tree/master/0060-permutation-sequence) |
 | [0263-ugly-number](https://github.com/AditiSingh006/Leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/AditiSingh006/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/AditiSingh006/Leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
