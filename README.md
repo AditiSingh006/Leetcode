@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/AditiSingh006/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AditiSingh006/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/AditiSingh006/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2485-find-the-pivot-integer](https://github.com/AditiSingh006/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AditiSingh006/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AditiSingh006/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/AditiSingh006/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/AditiSingh006/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Counting Sort
 |  |
 | ------- |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/AditiSingh006/Leetcode/tree/master/0060-permutation-sequence) |
+## Combinatorics
+|  |
+| ------- |
+| [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/AditiSingh006/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 <!---LeetCode Topics End-->
