@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/AditiSingh006/Leetcode/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/AditiSingh006/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/AditiSingh006/Leetcode/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/AditiSingh006/Leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/AditiSingh006/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/AditiSingh006/Leetcode/tree/master/0204-count-primes) |
 | [2523-closest-prime-numbers-in-range](https://github.com/AditiSingh006/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
