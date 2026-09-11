@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AditiSingh006/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AditiSingh006/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AditiSingh006/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AditiSingh006/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AditiSingh006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AditiSingh006/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/AditiSingh006/Leetcode/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AditiSingh006/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AditiSingh006/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/AditiSingh006/Leetcode/tree/master/0204-count-primes) |
@@ -323,10 +326,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0812-largest-triangle-area) |
 ## Polygons
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0812-largest-triangle-area) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
