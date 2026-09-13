@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/AditiSingh006/Leetcode/tree/master/0089-gray-code) |
 | [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/AditiSingh006/Leetcode/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/AditiSingh006/Leetcode/tree/master/0060-permutation-sequence) |
+| [0089-gray-code](https://github.com/AditiSingh006/Leetcode/tree/master/0089-gray-code) |
 | [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AditiSingh006/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/AditiSingh006/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/AditiSingh006/Leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
