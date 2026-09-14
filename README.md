@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/AditiSingh006/Leetcode/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/AditiSingh006/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/AditiSingh006/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AditiSingh006/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/AditiSingh006/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0223-rectangle-area) |
 | [0812-largest-triangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0812-largest-triangle-area) |
+| [0836-rectangle-overlap](https://github.com/AditiSingh006/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Polygons
 |  |
 | ------- |
