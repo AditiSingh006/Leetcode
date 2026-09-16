@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AditiSingh006/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AditiSingh006/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/AditiSingh006/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -363,12 +364,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
