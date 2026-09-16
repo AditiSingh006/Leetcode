@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/AditiSingh006/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/AditiSingh006/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AditiSingh006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2043-simple-bank-system](https://github.com/AditiSingh006/Leetcode/tree/master/2043-simple-bank-system) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AditiSingh006/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/AditiSingh006/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AditiSingh006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/AditiSingh006/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AditiSingh006/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/AditiSingh006/Leetcode/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/AditiSingh006/Leetcode/tree/master/2043-simple-bank-system) |
 | [3612-process-string-with-special-operations-i](https://github.com/AditiSingh006/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AditiSingh006/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AditiSingh006/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2043-simple-bank-system](https://github.com/AditiSingh006/Leetcode/tree/master/2043-simple-bank-system) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/AditiSingh006/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AditiSingh006/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/AditiSingh006/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -381,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AditiSingh006/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/AditiSingh006/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0460-lfu-cache) |
+| [2043-simple-bank-system](https://github.com/AditiSingh006/Leetcode/tree/master/2043-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
