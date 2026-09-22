@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/AditiSingh006/Leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/AditiSingh006/Leetcode/tree/master/0645-set-mismatch) |
 ## Database
 |  |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/AditiSingh006/Leetcode/tree/master/0053-maximum-subarray) |
 | [0233-number-of-digit-one](https://github.com/AditiSingh006/Leetcode/tree/master/0233-number-of-digit-one) |
+| [0338-counting-bits](https://github.com/AditiSingh006/Leetcode/tree/master/0338-counting-bits) |
 | [1301-number-of-paths-with-max-score](https://github.com/AditiSingh006/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/AditiSingh006/Leetcode/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 ## Counting Sort
