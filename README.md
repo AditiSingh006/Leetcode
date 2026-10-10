@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/AditiSingh006/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/AditiSingh006/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/AditiSingh006/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/AditiSingh006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/AditiSingh006/Leetcode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/AditiSingh006/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/AditiSingh006/Leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/AditiSingh006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/AditiSingh006/Leetcode/tree/master/0443-string-compression) |
 | [0856-score-of-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AditiSingh006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
