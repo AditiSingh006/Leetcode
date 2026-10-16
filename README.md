@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AditiSingh006/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AditiSingh006/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2043-simple-bank-system](https://github.com/AditiSingh006/Leetcode/tree/master/2043-simple-bank-system) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AditiSingh006/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AditiSingh006/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/AditiSingh006/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/AditiSingh006/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AditiSingh006/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/AditiSingh006/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/AditiSingh006/Leetcode/tree/master/2043-simple-bank-system) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AditiSingh006/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2352-equal-row-and-column-pairs](https://github.com/AditiSingh006/Leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [3498-reverse-degree-of-a-string](https://github.com/AditiSingh006/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AditiSingh006/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -481,4 +483,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AditiSingh006/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/AditiSingh006/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
