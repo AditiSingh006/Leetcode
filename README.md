@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AditiSingh006/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/AditiSingh006/Leetcode/tree/master/0739-daily-temperatures) |
 | [0812-largest-triangle-area](https://github.com/AditiSingh006/Leetcode/tree/master/0812-largest-triangle-area) |
+| [1046-last-stone-weight](https://github.com/AditiSingh006/Leetcode/tree/master/1046-last-stone-weight) |
 | [1207-unique-number-of-occurrences](https://github.com/AditiSingh006/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/AditiSingh006/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/AditiSingh006/Leetcode/tree/master/1288-remove-covered-intervals) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/AditiSingh006/Leetcode/tree/master/0355-design-twitter) |
+| [1046-last-stone-weight](https://github.com/AditiSingh006/Leetcode/tree/master/1046-last-stone-weight) |
 ## Breadth-First Search
 |  |
 | ------- |
