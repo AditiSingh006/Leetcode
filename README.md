@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/AditiSingh006/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/AditiSingh006/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AditiSingh006/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/AditiSingh006/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
 |  |
 | ------- |
