@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/AditiSingh006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/AditiSingh006/Leetcode/tree/master/0443-string-compression) |
+| [0482-license-key-formatting](https://github.com/AditiSingh006/Leetcode/tree/master/0482-license-key-formatting) |
 | [0856-score-of-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AditiSingh006/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/1021-remove-outermost-parentheses) |
