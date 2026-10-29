@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/AditiSingh006/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0443-string-compression](https://github.com/AditiSingh006/Leetcode/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/AditiSingh006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/AditiSingh006/Leetcode/tree/master/0482-license-key-formatting) |
 | [0831-masking-personal-information](https://github.com/AditiSingh006/Leetcode/tree/master/0831-masking-personal-information) |
 | [0856-score-of-parentheses](https://github.com/AditiSingh006/Leetcode/tree/master/0856-score-of-parentheses) |
@@ -503,4 +504,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/AditiSingh006/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/AditiSingh006/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AditiSingh006/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AditiSingh006/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AditiSingh006/Leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AditiSingh006/Leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
